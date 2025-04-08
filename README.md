@@ -1,14 +1,13 @@
 # GlobalArmsRace
-The final project for Data Analytics Bootcamp
-
+The final project for Data Analytics Bootcamp at Spiced Academy
 
 
 1. Title and Objectives
 
 Global Arms Race: This project aims to analyze the evolution of defense spending worldwide, with a focus on geopolitical drivers, arms trade, and the trade-off between defense and other development spendings purticularliy development aid.
 
-     Broad Research question: 
-     How have global defense spending trends evolved since the end of the Cold War, the geopolitical drivers, arms trade and the trade offs.
+Broad Research question: 
+How have global defense spending trends evolved since the end of the Cold War, the geopolitical drivers, arms trade and the trade offs.
 
 2. Spicific Policy-Relevant Questions
 
@@ -34,9 +33,13 @@ Global Arms Race: This project aims to analyze the evolution of defense spending
 
    3. Datasets:
 
-   - Defense Spending → Annual spending by country on military both in total ocnstants and % GDP (SIPRI, NATO, World Bank, OECD, IISS military Balance)
+   - Defense Spending → Annual spending by country on military both in total constants and % GDP (SIPRI, NATO, World Bank, OECD, IISS military Balance)
    - Arms Trade → Exports/imports of weapons (SIPRI, UNROCA, WB)
    - Official Development Assisstance (ODA) -> annual committment by country (donor and maybe also reciepient) in total constant and % GDP (World Bank, OECD) 
    - Other Data
+      https://www.sipri.org/databases/armstransfers/sources-and-methods 
 
    4. Sample: from 1990-present for all the countries as far as the data is available for
+
+
+
