@@ -2,7 +2,7 @@
 The final project for Data Analytics Bootcamp at Spiced Academy
 
 
-1. Title and Objectives: Export and Import Volumes of Major Arms by Leading Suppliers and Recipients in the Cold War and Post–Cold War Periods
+Title and Objectives: Export and Import Volumes of Major Arms by Leading Suppliers and Recipients in the Cold War and Post–Cold War Periods
 
 I analyzed 70+ years of arms transfer data from SIPRI's database, revealing how geopolitical shocks dramatically change trade patterns:
 🔧 My Process:
