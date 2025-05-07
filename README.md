@@ -10,10 +10,10 @@ Built Python/Pandas pipelines to clean and analyze SIPRI TIV data
 Created interactive Tableau dashboards tracking exporter/receiver trends
 Identified key tipping points in global arms markets
 💡 Striking Findings:
-🇺🇸 U.S. arms exports surged after 9/11 (peaking at 39% global share)
-🇺🇦 Ukraine became the world's #1 arms importer after Russia's 2022 invasion
-🇮🇳 India maintained its position as top importer since Cold War era
-🇷🇺 Russian exports began declining sharply from 2018 (before Ukraine war)
+- U.S. arms exports surged after 9/11 (peaking at 39% global share)
+- Ukraine became the world's #1 arms importer after Russia's 2022 invasion
+- India maintained its position as top importer since Cold War era
+- Russian exports began declining sharply from 2018 (before Ukraine war)
 
 
 
