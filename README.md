@@ -5,10 +5,12 @@ The final project for Data Analytics Bootcamp at Spiced Academy
 Title and Objectives: Export and Import Volumes of Major Arms by Leading Suppliers and Recipients in the Cold War and Post–Cold War Periods
 
 I analyzed 70+ years of arms transfer data from SIPRI's database, revealing how geopolitical shocks dramatically change trade patterns:
--🔧 My Process:
+🔧 My Process:
+
 - Built Python/Pandas pipelines to clean and analyze SIPRI TIV data
 - Created interactive Tableau dashboards tracking exporter/receiver trends
 - Identified key tipping points in global arms markets
+
 💡 Striking Findings:
 - U.S. arms exports surged after 9/11 (peaking at 39% global share)
 - Ukraine became the world's #1 arms importer after Russia's 2022 invasion
